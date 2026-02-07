@@ -108,7 +108,7 @@ docker network inspect rfexpert-ai_backend-network
 - **Dual Architecture**: Choose between RAG (quick setup) or Fine-tuning (deep specialization)
 - **Knowledge Management**: Upload documents, scrape websites, build comprehensive knowledge bases
 - **Intelligent Responses**: Get accurate, source-backed answers from your domain expertise
-- **⚡ Production Ready**: Complete deployment infrastructure with monitoring and security
+- **Production Ready**: Complete deployment infrastructure with monitoring and security
 - **Audit Trail**: Complete chain of custody for all operations
 
 
