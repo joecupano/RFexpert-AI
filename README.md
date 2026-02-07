@@ -1,8 +1,8 @@
-# RF Expert AI
+# ExpertSystem
 
 **Enterprise-Grade AI Platform for Highly Regulated Environments**
 
-RF Expert AI is a secure, on-premise platform for building and deploying domain-specific expert systems with comprehensive audit logging and chain of custody tracking. Designed for regulated industries including healthcare, finance, government, and defense.
+ExpertSystem is a secure, on-premise platform for building and deploying domain-specific expert systems with comprehensive audit logging and chain of custody tracking. Designed for regulated industries including healthcare, finance, government, and defense.
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/platform-Ubuntu%2024.04-orange.svg)](https://ubuntu.com/)
